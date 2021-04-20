@@ -1,5 +1,4 @@
 import { makeStyles } from "@material-ui/core/styles";
-import Divider from "@material-ui/core/Divider";
 
 import t2 from "image/home/t2.png";
 import t3 from "image/home/t3.png";
