@@ -40,5 +40,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@baiducloud/sdk": "^1.0.0-rc.28",
+    "recursive-readdir": "^2.2.2"
   }
 }
